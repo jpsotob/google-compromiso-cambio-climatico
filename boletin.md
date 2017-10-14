@@ -1,5 +1,9 @@
 <h1>Google y su compromiso con el cambio climático</h1>
-En la actualidad el apetito insaseable del mundo por los mensajes, fotos, transmisión de video, junto con sistemas que respaldan las infraestructuras financieras, de transporte y de comunicación, a despertado el interés de los gigantes tecnológicos (Google, Facebook, Microsoft, Apple, etc) por proveer plataformas (facebook, instagram, youtube, etc.) adecuadas para facilitar la compartición de la información a través de diversos dispositivos tecnológicos (smartphone, tablets, computadoras, etc.). Para esto, las empresas se han visto en la necesidad de aumentar su capacidad de almacenamiento.
+En la actualidad el apetito insaseable del mundo por los mensajes, fotos, transmisión de video, junto con sistemas que respaldan las infraestructuras financieras, de transporte y de comunicación, propició el interés de los gigantes tecnológicos (Google, Facebook, Microsoft, Apple, etc) por proveer plataformas (facebook, instagram, youtube, etc.) adecuadas para facilitar el envío e intercambio de información a través de dispositivos (smartphone, tablets, computadoras, etc.). Para esto, las empresas involucradas como google se han visto en la necesidad de aumentar su capacidad de procesamiento y almacenamiento a tal punto de expandir sus centros de datos a diversas partes del mundo.
+
+
+
+
 
 las principales empresas tecnológicas se han visto en la necesidad de aumnetar su capacidad de procesamiento y almacenamiento de la información. Para esto, es necesario contar con espacios físicos (Centros de Datos) con capacidad para procesar grandes cantidades de datos. <br/>
 
