@@ -21,6 +21,10 @@ La primer compañía en asumir el compromiso de empezar con este cambio fue Face
 
 ![Compromisos energía renovable](images/compromisos.png)
 
+[Greenpace](http://www.greenpeace.org) en su estudio [Clicking clean:who is winning the race to build a green internet](http://www.greenpeace.org/international/en/publications/Campaign-reports/Climate-Reports/clicking-clean-2017/) hace uso de una metodología para asignar un puntaje de acuerdo al uso del tipo de energía utilizada por las principales corporaciones de internet. Como resultado de dicho estudio la siguiente imagen ilustra el porcentaje del tipo de energía utilizada, así como su nota global.
+
+![Clicking clean](images/clean.png)
+
 Según el sitio [Data Center Knowledge](http://www.datacenterknowledge.com/archives/2012/01/19/google-our-data-centers-are-good-neighbors/) "Google ha sido líder de la industria a la hora de revelar información sobre la eficiencia energética y el consumo de energía de sus centros de datos, así como sobre las estrategias para reciclar el agua con el objeto de reducir el impacto de sus instalaciones en comunidades locales". 
 
 ![Centro de datos de Google](images/dataCenter_google.jpeg)
