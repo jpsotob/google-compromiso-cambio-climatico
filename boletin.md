@@ -3,6 +3,7 @@ En la actualidad el apetito insaseable del mundo por los mensajes, fotos, transm
 
 <img src="https://www.google.com/about/datacenters/images/locations/hamina-home1.jpg" alt="Google data center"/>
 
+![Centro de datos de Google en Finlandia](https://www.google.com/about/datacenters/images/locations/hamina-home1.jpg)
 
 
 las principales empresas tecnológicas se han visto en la necesidad de aumnetar su capacidad de procesamiento y almacenamiento de la información. Para esto, es necesario contar con espacios físicos (Centros de Datos) con capacidad para procesar grandes cantidades de datos. <br/>
