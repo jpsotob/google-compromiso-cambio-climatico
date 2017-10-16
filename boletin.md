@@ -2,6 +2,8 @@
 En la actualidad el apetito insaseable del mundo por los mensajes, fotos, transmisión de video, junto con sistemas que respaldan las infraestructuras financieras, de transporte y de comunicación, propició el interés de los gigantes tecnológicos ([Google](http://www.google.com), [Facebook](http://www.facebook.com), [Microsoft](http://www.microsoft.com), [Apple](http://www.apple.com), etc.) por proveer plataformas ([facebook](http://www.facebook.com), [instagram](https://www.instagram.com/), [youtube](http://www.youtube.com), [snapchat](https://www.snapchat.com), [spotify](https://www.spotify.com/),  etc.) adecuadas para facilitar el envío e intercambio de información a través de dispositivos (smartphone, tablets, computadoras, etc.). Para esto, las empresas involucradas como google se han visto en la necesidad de aumentar su capacidad de almacenamiento y procesamiento de información en centros de datos distribuidos geográficamente alrededor del mundo.
 Según el sitio [Data Center Knowledge](http://www.datacenterknowledge.com/archives/2012/01/19/google-our-data-centers-are-good-neighbors/) "Google ha sido líder de la industria a la hora de revelar información sobre la eficiencia energética y el consumo de energía de sus centros de datos, así como sobre las estrategias para reciclar el agua con el objeto de reducir el impacto de sus instalaciones en comunidades locales". 
 
+<img src="http://www.datacenterknowledge.com/uncategorized/top-five-data-center-stories-week-sept-29-2017/gallery?curr=165231&slide=3"/>
+
 <div align="center">
    <a href="https://www.google.com/about/datacenters/inside/locations/hamina/"> 
    <img src="https://www.google.com/about/datacenters/images/locations/hamina-home1.jpg" alt="Google data center" width="400"/></a>
