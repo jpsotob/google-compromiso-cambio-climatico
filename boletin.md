@@ -5,7 +5,7 @@ Aproximadamente la mitad de la población mundial tiene acceso a internet, es de
 
 ![Minuto en internet](images/minuto.png)
 
-No es de extrañar, que se necesite una gran cantidad de energía para fabricar y alimentar los dispositivos electrónicos, centros de datos, redes de comunicación y la propia industria manufacturera de los equipos. De acuerdo con [Corcoran](https://www.researchgate.net/profile/Peter_Corcoran) y [Andrae](https://www.researchgate.net/profile/Anders_Andrae) en su artículo [Emerging Trends in Electricity Consumption](https://www.researchgate.net/publication/255923829_Emerging_Trends_in_Electricity_Consumption_for_Consumer_ICT) se estima que la demanda energética del sector de las TI consumiría alrededor del 7% en 2012, con  proyecciones que podrían exceder el 12% en el 2017, y que continuaría creciendo al menos un 7% anual hasta el 2030, es decir, el doble de la tasa promedio de crecimiento de la electricidad a nivel mundial. 
+No es de extrañar, que se necesite una gran cantidad de energía para fabricar y alimentar los dispositivos electrónicos, centros de datos, redes de comunicación y la propia industria manufacturera de los equipos. De acuerdo con [Corcoran](https://www.researchgate.net/profile/Peter_Corcoran) y [Andrae](https://www.researchgate.net/profile/Anders_Andrae) en su artículo [Emerging Trends in Electricity Consumption](https://www.researchgate.net/publication/255923829_Emerging_Trends_in_Electricity_Consumption_for_Consumer_ICT) estiman que la demanda energética del sector de las TI consumiría alrededor del 7% en 2012, con  proyecciones que podrían exceder el 12% en el 2017, y que continuaría creciendo al menos un 7% anual hasta el 2030, es decir, el doble de la tasa promedio de crecimiento de la electricidad a nivel mundial. 
 ![Emerging trends](images/emergingtrends.png)
 
 En ese mismo estudio, Corcoran y Andrae hacen una comparativa entre la demanda del sector de las TI y los principales paises consumidores de energía. Como se ilustra en la siguiente gráfica, en el año 2012, el sector de las TI se encuentra sólo por debajo de China y Estados Unidos con 1,817 billones kWh.
@@ -21,7 +21,7 @@ La primer compañía en asumir el compromiso de empezar con este cambio fue Face
 
 ![Compromisos energía renovable](images/compromisos.png)
 
-[Greenpace](http://www.greenpeace.org) en su reporte anual [Clicking clean:who is winning the race to build a green internet](http://www.greenpeace.org/international/en/publications/Campaign-reports/Climate-Reports/clicking-clean-2017/) muestra el porcentaje del tipo de energía utilizada por las principales compañías de tecnología. Para eso, Greenpeace utiliza su propia metodología (explicada en el mismo reporte) la cual les permite asignar una clasificación (de la A a la F). La siguiente imagen ilustra los resultados obtenidos hasta el 2016.
+[Greenpace](http://www.greenpeace.org) en su reporte anual [Clicking clean:who is winning the race to build a green internet](http://www.greenpeace.org/international/en/publications/Campaign-reports/Climate-Reports/clicking-clean-2017/) muestra el porcentaje del tipo de energía utilizada por las principales compañías de tecnología. Para esto, la organización utiliza su propia metodología (explicada en el mismo reporte) la cual les permite asignar una clasificación (de la A a la F). A continuación se ilustran los resultados obtenidos hasta el 2016.
 
 ![Clicking clean](images/clean.png)
 
