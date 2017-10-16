@@ -4,27 +4,7 @@ Según el sitio [Data Center Knowledge](http://www.datacenterknowledge.com/archi
 
 <img src="https://www.google.com/about/datacenters/gallery/images/_2000/CBF_009.jpg" width="900">
 
-<div align="center">
-   <a href="https://www.google.com/about/datacenters/inside/locations/hamina/"> 
-   <img src="https://www.google.com/about/datacenters/images/locations/hamina-home1.jpg" alt="Google data center" width="400"/></a>
-    <p>Centro de datos de Google (Hamina, Finlandia)</p>
-</div>
-
-
-<p align="center">
-"Google ha sido líder de la industria a la hora de revelar información sobre la eficiencia energética y el consumo de energía de sus centros de datos, así como sobre las estrategias para reciclar el agua con el objeto de reducir el impacto de sus instalaciones en comunidades locales". [<a href="http://www.datacenterknowledge.com/archives/2012/01/19/google-our-data-centers-are-good-neighbors/" target="same">Data Center Knowledge</a>]
-</p>
-
-<p align="justify">
-Los centros de datos de google utilizan un 50% menos de energía que los centros de datos habituales [<a href="https://environment.google/">Google Environmental Report</a>]. Es por esto, que varias empresas han empezado a utilizar aplicaciones de Google, con el fin de reducir gastos de cómputo, de electricidad, así como de emisiones de dióxido de carbono del 65% hasta un 85%. Asimismo, las empresas que utilizan Gmail han reducido su impacto medioambiental hasta un 98% con respecto a aquellas que ejecutan el correo electrónico en servidores locales [<a href="https://environment.google/">Google Environmental Report</a>].<br/><br/>
-Gracias a los esfuerzos de eficiencia energética de Google, la nube es mejor para el medio ambiente. Esto significa que las empresas que utilizan sus productos basados en la nube son también más ecológicas.
-</p>
-
-
-![Centro de datos de Google en Finlandia](https://www.google.com/about/datacenters/images/locations/hamina-home1.jpg)
-
-
-las principales empresas tecnológicas se han visto en la necesidad de aumnetar su capacidad de procesamiento y almacenamiento de la información. Para esto, es necesario contar con espacios físicos (Centros de Datos) con capacidad para procesar grandes cantidades de datos. <br/>
+Por otra parte, según [Google Environmental Report](https://environment.google/) los centros de datos de google utilizan un 50% menos de energía que los centros de datos habituales. Es por esto, que varias empresas han empezado a utilizar aplicaciones de Google, con el fin de reducir gastos de cómputo, de electricidad, así como de emisiones de dióxido de carbono del 65% hasta un 85%. Asimismo, las empresas que utilizan Gmail han reducido su impacto medioambiental hasta un 98% con respecto a aquellas que ejecutan el correo electrónico en servidores locales. Por lo tanto, gracias a los esfuerzos de eficiencia energética de Google, la nube es mejor para el medio ambiente. Esto significa que las empresas que utilizan sus productos basados en la nube son también más ecológicas.
 
 
 Internet probablemente sea la cosa más grande que construimos como especie. Con la tarea de crear y satisfacer el apetito insaciable del mundo por mensajes, fotos y transmisión de video, junto con sistemas críticos que respaldan nuestras infraestructuras financieras, de transporte y de comunicación, Internet sirve como el sistema nervioso central de la economía global moderna.
