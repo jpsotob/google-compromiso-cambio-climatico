@@ -14,11 +14,3 @@ Según el sitio [Data Center Knowledge](http://www.datacenterknowledge.com/archi
 ![Centro de datos de Google](images/dataCenter_google.jpeg)
 Por otra parte, según [Google Environmental Report](https://environment.google/) los centros de datos de google utilizan un 50% menos de energía que los centros de datos habituales. Es por esto, que varias empresas han empezado a utilizar aplicaciones de Google, con el fin de reducir gastos de cómputo, de electricidad, así como de emisiones de dióxido de carbono del 65% hasta un 85%. Asimismo, las empresas que utilizan Gmail han reducido su impacto medioambiental hasta un 98% con respecto a aquellas que ejecutan el correo electrónico en servidores locales. Por lo tanto, gracias a los esfuerzos de eficiencia energética de Google, la nube es mejor para el medio ambiente. Esto significa que las empresas que utilizan sus productos basados en la nube son también más ecológicas.
 
-
-
-
-
-Internet probablemente sea la cosa más grande que construimos como especie. Con la tarea de crear y satisfacer el apetito insaciable del mundo por mensajes, fotos y transmisión de video, junto con sistemas críticos que respaldan nuestras infraestructuras financieras, de transporte y de comunicación, Internet sirve como el sistema nervioso central de la economía global moderna.
-No es de extrañar, se necesita una gran cantidad de energía para fabricar y alimentar nuestros dispositivos, centros de datos y las necesidades de infraestructura relacionadas. Se estima que la huella energética del sector de TI consume alrededor del 7% de la electricidad global.1 Con un aumento previsto del triple del tráfico mundial de Internet para 20202, se espera que la huella energética de Internet aumente aún más, alimentada tanto por nuestro consumo individual de datos y por la difusión de la era digital a más de la población mundial, de 3 mil millones a más de 4 mil millones a nivel mundial. 3
-
-como son las redes sociales (facebook, twitter, instagram, linkedin, etc),  ya sea a través de un tuit, mensaje de texto, whats app, <b>email</b>, o 
