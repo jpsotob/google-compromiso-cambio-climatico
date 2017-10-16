@@ -5,7 +5,7 @@ No es de extrañar, que se necesite una gran cantidad de energía para fabricar 
 ![Emerging trends](images/emergingtrends.png)
 
 En ese mismo estudio, Corcoran y Andrae hacen una comparativa entre la demanda del sector de las TI con otros de los principales paises consumidores de energía. Como se ilustra en la siguiente gráfica, en el año 2012, el sector de las TI se encuentra sólo por debajo de China y Estados Unidos con 1,817 billones kWh.
-![Emerging trends](images/comparativaTI_countries.png)
+![Emerging trends](images/comparativaTI_countries_2012.png)
 
 Para esto, las empresas involucradas como google se han visto en la necesidad de aumentar su capacidad de almacenamiento y procesamiento de información en centros de datos distribuidos geográficamente alrededor del mundo.
 Según el sitio [Data Center Knowledge](http://www.datacenterknowledge.com/archives/2012/01/19/google-our-data-centers-are-good-neighbors/) "Google ha sido líder de la industria a la hora de revelar información sobre la eficiencia energética y el consumo de energía de sus centros de datos, así como sobre las estrategias para reciclar el agua con el objeto de reducir el impacto de sus instalaciones en comunidades locales". 
