@@ -1,7 +1,7 @@
 # Google y su compromiso con el cambio climático
 En la actualidad el apetito insaseable del mundo por los mensajes, fotos, transmisión de video, junto con sistemas que respaldan las infraestructuras financieras, de transporte y de comunicación, ha generado el interés de los gigantes tecnológicos ([Google](https://www.google.com), [Facebook](https://www.facebook.com), [Microsoft](https://www.microsoft.com), [Apple](http://www.apple.com), etc.) por proveer plataformas ([facebook](https://www.facebook.com), [instagram](https://www.instagram.com/), [youtube](http://www.youtube.com), [snapchat](https://www.snapchat.com), [spotify](https://www.spotify.com/), [whatsapp](https://www.whatsapp.com/), etc.) adecuadas que faciliten el envío e intercambio de información a través de los diversos dispositivos electrónicos, tales como: teléfonos inteligentes, tabletas electrónicas, computadoras, etc.
 
-La mitad de la población mundial tiene acceso a internet, es decir, aproxiamdamente 3.700 millones de personas. Cada año, los infógrafos Lori Lewis y Chadd Callahan de [Culumbus Media](http://www.cumulus.com/) realizan un estudio en el que analizan lo que pasa cada minuto en internet, la siguiente figura muestra los resultados de este año.
+Aproximadamente la mitad de la población mundial tiene acceso a internet, es decir, 3.700 millones de personas. Cada año, los infógrafos Lori Lewis y Chadd Callahan de [Culumbus Media](http://www.cumulus.com/) realizan un estudio en el que analizan lo que pasa cada minuto en internet, la siguiente figura muestra los resultados de este año.
 
 ![Minuto en internet](images/minuto.png)
 
