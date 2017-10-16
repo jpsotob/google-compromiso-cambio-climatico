@@ -3,7 +3,7 @@ En la actualidad el apetito insaseable del mundo por los mensajes, fotos, transm
 
 La mitad de la población mundial tiene acceso a internet, es decir, aproxiamdamente 3.700 millones de personas. Cada año, los infógrafos Lori Lewis y Chadd Callahan de [Culumbus Media](http://www.cumulus.com/) realizan un estudio en el que analizan lo que pasa cada minuto en internet, la siguiente figura muestra los resultados de este año.
 
-![Emerging trends](images/minuto_internet.jpg)
+![Minuto en internet](images/minuto.png)
 
 No es de extrañar, que se necesite una gran cantidad de energía para fabricar y alimentar los dispositivos electrónicos, centros de datos, redes de comunicación y en la propia manufactura de los equipos. De acuerdo con [Corcoran](https://www.researchgate.net/profile/Peter_Corcoran) y [Andrae](https://www.researchgate.net/profile/Anders_Andrae) en su artículo [Emerging Trends in Electricity Consumption](https://www.researchgate.net/publication/255923829_Emerging_Trends_in_Electricity_Consumption_for_Consumer_ICT) estiman que la demanda energética del sector de las TI consumiría alrededor del 7% en 2012, con  proyecciones que podrían exceder el 12% en el 2017, y que continuaría creciendo al menos un 7% anual hasta el 2030, es decir, el doble de la tasa promedio de crecimiento de la electricidad a nivel mundial. 
 ![Emerging trends](images/emergingtrends.png)
