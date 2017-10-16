@@ -9,7 +9,10 @@
 "Google ha sido líder de la industria a la hora de revelar información sobre la eficiencia energética y el consumo de energía de sus centros de datos, así como sobre las estrategias para reciclar el agua con el objeto de reducir el impacto de sus instalaciones en comunidades locales". <a href="http://www.datacenterknowledge.com/archives/2012/01/19/google-our-data-centers-are-good-neighbors/" target="same">Data Center Knowledge</a>
 </p>
 
-
+<p align="justify">
+Los centros de datos de google utilizan un 50% menos de energía que los centros de datos habituales. Es por esto, que varias empresas han empezado a utilizar aplicaciones de Google, con el fin de reducir gastos de informática de oficina, de electricidad, así como las emisiones de dióxido de carbono del 65% al 90%. Asimismo, las empresas que utilizan Gmail han reducido su impacto medioambiental hasta un 98% con respecto a aquellas que ejecutan el correo electrónico en servidores locales.<br/>
+Gracias a los esfuerzos de eficiencia energética de Google, la nube es mejor para el medio ambiente. Esto significa que las empresas que utilizan sus productos basados en la nube son también más ecológicas.
+</p>
 
 
 ![Centro de datos de Google en Finlandia](https://www.google.com/about/datacenters/images/locations/hamina-home1.jpg)
