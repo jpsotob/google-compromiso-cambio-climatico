@@ -21,7 +21,7 @@ La primer compañía en asumir el compromiso de empezar con este cambio fue Face
 
 ![Compromisos energía renovable](images/compromisos.png)
 
-[Greenpace](http://www.greenpeace.org) en su estudio [Clicking clean:who is winning the race to build a green internet](http://www.greenpeace.org/international/en/publications/Campaign-reports/Climate-Reports/clicking-clean-2017/) hace uso de una metodología para asignar un puntaje de acuerdo al uso del tipo de energía utilizada por las principales corporaciones de internet. Como resultado de dicho estudio la siguiente imagen ilustra el porcentaje del tipo de energía utilizada, así como su nota global.
+[Greenpace](http://www.greenpeace.org) en su reporte anual [Clicking clean:who is winning the race to build a green internet](http://www.greenpeace.org/international/en/publications/Campaign-reports/Climate-Reports/clicking-clean-2017/) muestra el porcentaje del tipo de energía utilizada por las principales compañías de tecnología. Para eso, Greenpeace utiliza su propia metodología (explicada en el mismo reporte) la cual les permite asignar una clasificación (de la A a la F). La siguiente imagen ilustra los resultados obtenidos hasta el 2016.
 
 ![Clicking clean](images/clean.png)
 
