@@ -6,8 +6,7 @@
   <p>Centro de datos de Google (Hamina, Finlandia)</p>
 </div>
 <p align="center">
-"Google ha sido líder de la industria a la hora de revelar información sobre la eficiencia energética y el consumo de energía de sus centros de datos, así como sobre las estrategias para reciclar el agua con el objeto de reducir el impacto de sus instalaciones en comunidades locales".
-[Data Center Knowledge](http://www.datacenterknowledge.com/archives/2012/01/19/google-our-data-centers-are-good-neighbors/)
+"Google ha sido líder de la industria a la hora de revelar información sobre la eficiencia energética y el consumo de energía de sus centros de datos, así como sobre las estrategias para reciclar el agua con el objeto de reducir el impacto de sus instalaciones en comunidades locales". <a href="http://www.datacenterknowledge.com/archives/2012/01/19/google-our-data-centers-are-good-neighbors/" target="same">Data Center Knowledge</a>
 </p>
 
 
