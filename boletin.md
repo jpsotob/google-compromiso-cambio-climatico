@@ -1,21 +1,14 @@
 <h1>Google y su compromiso con el cambio climático</h1>
 <p align="justify">En la actualidad el apetito insaseable del mundo por los mensajes, fotos, transmisión de video, junto con sistemas que respaldan las infraestructuras financieras, de transporte y de comunicación, propició el interés de los gigantes tecnológicos (Google, Facebook, Microsoft, Apple, etc) por proveer plataformas (facebook, instagram, youtube, etc.) adecuadas para facilitar el envío e intercambio de información a través de dispositivos (smartphone, tablets, computadoras, etc.). Para esto, las empresas involucradas como google se han visto en la necesidad de aumentar su capacidad de almacenamiento y procesamiento de información en centros de datos distribuidos geográficamente alrededor del mundo.</p>
 <div align="center">
-<table border="0">
- <tr>
-  <td width="40%">
    <a href="https://www.google.com/about/datacenters/inside/locations/hamina/"> 
    <img src="https://www.google.com/about/datacenters/images/locations/hamina-home1.jpg" alt="Google data center" width="400"/></a>
     <p>Centro de datos de Google (Hamina, Finlandia)</p>
-  </td>
-  <td>
-   <p align="center">
-"Google ha sido líder de la industria a la hora de revelar información sobre la eficiencia energética y el consumo de energía de sus centros de datos, así como sobre las estrategias para reciclar el agua con el objeto de reducir el impacto de sus instalaciones en comunidades locales". [<a href="http://www.datacenterknowledge.com/archives/2012/01/19/google-our-data-centers-are-good-neighbors/" target="same">Data Center Knowledge</a>]
-</p>
-  </td>
- </tr>
- </table>
 </div>
+Según el sitio [Data Center Knowledge](http://www.datacenterknowledge.com/archives/2012/01/19/google-our-data-centers-are-good-neighbors/) 
+"Google ha sido líder de la industria a la hora de revelar información sobre la eficiencia energética y el consumo de energía de sus centros de datos, así como sobre las estrategias para reciclar el agua con el objeto de reducir el impacto de sus instalaciones en comunidades locales". 
+</p>
+
 <p align="center">
 "Google ha sido líder de la industria a la hora de revelar información sobre la eficiencia energética y el consumo de energía de sus centros de datos, así como sobre las estrategias para reciclar el agua con el objeto de reducir el impacto de sus instalaciones en comunidades locales". [<a href="http://www.datacenterknowledge.com/archives/2012/01/19/google-our-data-centers-are-good-neighbors/" target="same">Data Center Knowledge</a>]
 </p>
