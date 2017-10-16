@@ -13,7 +13,7 @@ En ese mismo estudio, Corcoran y Andrae hacen una comparativa entre la demanda d
 
 Por otro lado, Andrae y Edler en su artículo [On Global Electricity Usage of Communication Technology: Trends to 2030](http://www.mdpi.com/2078-1547/6/1/117) mencionan que de cara al futuro, las estimaciones globales de la demanda de los centros de datos en 2030 anticipan un aumento de 3 a 10 veces los niveles actuales, pudiendo alcanzar hasta el 13% de la demanda de energía del consumo mundial.
 
-El crecimiento imparable de consumo digital está impulsando nuevas inversiones en infraestructura digital, en particular en Centros de Datos (fábricas de la era digital) hambrientos de energía.
+El crecimiento imparable de consumo digital está impulsando nuevas inversiones en infraestructura digital, en particular en los Centros de Datos (también conocidos como las fábricas de la era digital) hambrientos de energía.
 
 Según el sitio [Data Center Knowledge](http://www.datacenterknowledge.com/archives/2012/01/19/google-our-data-centers-are-good-neighbors/) "Google ha sido líder de la industria a la hora de revelar información sobre la eficiencia energética y el consumo de energía de sus centros de datos, así como sobre las estrategias para reciclar el agua con el objeto de reducir el impacto de sus instalaciones en comunidades locales". 
 
