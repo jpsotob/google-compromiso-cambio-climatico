@@ -1,7 +1,8 @@
 <h1>Google y su compromiso con el cambio climático</h1>
 En la actualidad el apetito insaseable del mundo por los mensajes, fotos, transmisión de video, junto con sistemas que respaldan las infraestructuras financieras, de transporte y de comunicación, propició el interés de los gigantes tecnológicos (Google, Facebook, Microsoft, Apple, etc) por proveer plataformas (facebook, instagram, youtube, etc.) adecuadas para facilitar el envío e intercambio de información a través de dispositivos (smartphone, tablets, computadoras, etc.). Para esto, las empresas involucradas como google se han visto en la necesidad de aumentar su capacidad de almacenamiento y procesamiento de información en centros de datos distribuidos geográficamente alrededor del mundo.
-
+<div align="center">
 <img src="https://www.google.com/about/datacenters/images/locations/hamina-home1.jpg" alt="Google data center"/>
+</div>
 
 ![Centro de datos de Google en Finlandia](https://www.google.com/about/datacenters/images/locations/hamina-home1.jpg)
 
