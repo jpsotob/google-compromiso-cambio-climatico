@@ -1,7 +1,7 @@
 # Google y su compromiso con el cambio climático
 En la actualidad el crecimiento exponencial del envío de mensajes, fotos, transmisión de video, junto con el uso de sistemas que respaldan las infraestructuras financieras, de transporte, de negocios y de comunicación, ha despertado el interés de las principales empresas tecnológicas del mundo ([Google](https://www.google.com), [Facebook](https://www.facebook.com), [Microsoft](https://www.microsoft.com), [Apple](http://www.apple.com), etc.) por proveer plataformas que faciliten el envío e intercambio de información a través de dispositivos electrónicos, tales como: teléfonos inteligentes, tabletas electrónicas, computadoras, etc.
 
-Aproximadamente la mitad de la población mundial tiene acceso a internet, es decir, 3.700 millones de personas. Cada año, los infógrafos Lori Lewis y Chadd Callahan de [Culumbus Media](http://www.cumulus.com/) realizan un estudio en el que analizan lo que pasa cada minuto en internet. La siguiente figura muestra los resultados de este año.
+Aproximadamente la mitad de la población mundial tiene acceso a Internet, es decir, 3.700 millones de personas. Cada año, los infógrafos Lori Lewis y Chadd Callahan de [Culumbus Media](http://www.cumulus.com/) realizan un estudio en el que analizan lo que pasa cada minuto en Internet. La siguiente figura muestra los resultados de este año.
 
 ![Minuto en internet](images/minuto.png)
 
@@ -21,7 +21,7 @@ La primer compañía en asumir el compromiso de empezar con este cambio fue Face
 
 ![Compromisos energía renovable](images/compromisos.png)
 
-[Greenpace](http://www.greenpeace.org) en su reporte anual [Clicking clean:who is winning the race to build a green internet](http://www.greenpeace.org/international/en/publications/Campaign-reports/Climate-Reports/clicking-clean-2017/) muestra el porcentaje del tipo de energía utilizada por las principales compañías de tecnología. Para esto, la organización utiliza su propia metodología (explicada en el mismo reporte) la cual les permite asignar una clasificación (de la A a la F). A continuación se ilustran los resultados obtenidos hasta el 2016.
+[Greenpace](http://www.greenpeace.org) en su reporte anual [Clicking clean:who is winning the race to build a green internet](http://www.greenpeace.org/international/en/publications/Campaign-reports/Climate-Reports/clicking-clean-2017/) muestra el porcentaje del tipo de energía utilizada por las principales compañías de tecnología. Para esto, la organización utiliza su propia metodología (explicada en el mismo reporte) la cual les permite asignar una clasificación (de la A a la F) de acuerdo al nivel de compromiso. A continuación se ilustran los resultados obtenidos hasta el 2016.
 
 ![Clicking clean](images/clean.png)
 
@@ -29,7 +29,7 @@ Según el sitio [Data Center Knowledge](http://www.datacenterknowledge.com/archi
 
 Desde 2010, Google ha invertido cerca de $2.5 billones de dólares en proyectos de energías renovables, lo cual representa un total de 3.7 GW de energía limpia. Por otra parte, es considerado el mayor comprador de energía renovable, ya que hasta la fecha ha firmado 20 acuerdos para comprar 2.6 GW de energía renovable, equivalente a sacar a más de 1,2 millones de autos de la carretera.
 
-![Centro de datos de Google](images/dataCenter_google.jpeg)
+![Centro de datos de Google](images/google-datacenter-tech-05.jpg)
 
 Por último, según [Google Environmental Report](https://environment.google/) los centros de datos de google utilizan un 50% menos de energía que los centros de datos habituales. Es por esto, que varias empresas han empezado a utilizar aplicaciones de Google, con el fin de reducir gastos de cómputo, de electricidad, así como de emisiones de dióxido de carbono del 65% hasta un 85%. Asimismo, las empresas que utilizan Gmail han reducido su impacto medioambiental hasta un 98% con respecto a aquellas que ejecutan el correo electrónico en servidores locales. Por lo tanto, gracias a los esfuerzos de eficiencia energética de Google, la nube es mejor para el medio ambiente. Esto significa que las empresas que utilizan sus productos basados en la nube son también más ecológicas.
 
