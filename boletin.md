@@ -3,7 +3,7 @@
 <div align="center">
 <table border="0">
  <tr>
-  <td width="30%">
+  <td width="40%">
    <a href="https://www.google.com/about/datacenters/inside/locations/hamina/"> 
    <img src="https://www.google.com/about/datacenters/images/locations/hamina-home1.jpg" alt="Google data center" width="200"/></a>
     <p>Centro de datos de Google (Hamina, Finlandia)</p>
