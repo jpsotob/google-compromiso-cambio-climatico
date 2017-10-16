@@ -10,7 +10,7 @@
 </p>
 
 <p align="justify">
-Los centros de datos de google utilizan un 50% menos de energía que los centros de datos habituales. Es por esto, que varias empresas han empezado a utilizar aplicaciones de Google, con el fin de reducir gastos de informática de oficina, de electricidad, así como las emisiones de dióxido de carbono del 65% al 90%. Asimismo, las empresas que utilizan Gmail han reducido su impacto medioambiental hasta un 98% con respecto a aquellas que ejecutan el correo electrónico en servidores locales.<br/>
+Los centros de datos de google utilizan un 50% menos de energía que los centros de datos habituales </p>[Google Environmental Report](https://environment.google/). <p>Es por esto, que varias empresas han empezado a utilizar aplicaciones de Google, con el fin de reducir gastos de informática de oficina, de electricidad, así como de emisiones de dióxido de carbono del 65% hasta un 85%. Asimismo, las empresas que utilizan Gmail han reducido su impacto medioambiental hasta un 98% con respecto a aquellas que ejecutan el correo electrónico en servidores locales.<br/>
 Gracias a los esfuerzos de eficiencia energética de Google, la nube es mejor para el medio ambiente. Esto significa que las empresas que utilizan sus productos basados en la nube son también más ecológicas.
 </p>
 
